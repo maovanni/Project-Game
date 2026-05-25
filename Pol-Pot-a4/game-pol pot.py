@@ -11,7 +11,7 @@ if platform.system() == "Windows":
     import winsound
 
 root = tk.Tk()
-
+# rest_to edit
 # ── Window ───────────────────────────────────────────────────────
 WIN_WIDTH  = 1280
 WIN_HEIGHT = 720
